@@ -1,0 +1,15 @@
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\bin\Debug\Golden Hip-Hop.wav
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\bin\Debug\No Sanctuary Here.wav
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\bin\Debug\MiniProjekt_MaciejPozorski.exe.config
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\bin\Debug\MiniProjekt_MaciejPozorski.exe
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\bin\Debug\MiniProjekt_MaciejPozorski.pdb
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\GraSzukajX.csprojAssemblyReference.cache
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.Form1.resources
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.Form2.resources
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.Form3.resources
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.Properties.Resources.resources
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.Resource1.resources
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\GraSzukajX.csproj.GenerateResource.cache
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\GraSzukajX.csproj.CoreCompileInputs.cache
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.exe
+D:\pliki\projekty\C#\MiniProjekt_MaciejPozorski\MiniProjekt_MaciejPozorski\obj\Debug\MiniProjekt_MaciejPozorski.pdb
